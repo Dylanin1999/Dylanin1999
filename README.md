@@ -6,8 +6,8 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m currently working on Android Camera Hal, ISP algorithm and 3A algorithm
-- 🌱 I’m currently interesting in Deep learning, Low level ISP and JAVA for Android
+- 🔭 I’m working on Android Camera Hal, ISP algorithm and 3A algorithm
+- 🌱 I’m interesting in Deep learning, Low level ISP and JAVA for Android
 - 🤔 Maybe I will work on ISP chip soon
 - 📫 Maybe you want to ask me some Questions: Dylanin1999@163.com
 
