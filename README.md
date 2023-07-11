@@ -10,6 +10,3 @@ Here are some ideas to get you started:-->
 - 🌱 I’m interesting in Deep learning, Low level ISP and JAVA for Android
 - 📫 Maybe you want to ask me some Questions: Dylanin1999@163.com
 
- <!--START_SECTION:waka-->
- <!--END_SECTION:waka-->
-
