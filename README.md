@@ -11,4 +11,14 @@ Here are some ideas to get you started:-->
 - 📫 Maybe you want to ask me some Questions: Dylanin1999@163.com
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 05 July 2023 - To: 10 July 2023
+
+Total Time: 18 hrs 49 mins
+
+C             18 hrs 37 mins  >>>>>>>>>>>>>>>>>>>>>>>>>   98.95 %
+Objective-C   11 mins         -------------------------   01.05 %
+```
+
 <!--END_SECTION:waka-->
