@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 From: 05 July 2023 - To: 10 July 2023
 
 Total Time: 18 hrs 49 mins
-[![wakatime](https://wakatime.com/badge/user/514e295b-1260-40cb-bcc3-296a47f5d423.svg)](https://wakatime.com/@514e295b-1260-40cb-bcc3-296a47f5d423)
+
 C             18 hrs 37 mins  🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟨   98.95 %
 Objective-C   11 mins         🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.05 %
 ```
