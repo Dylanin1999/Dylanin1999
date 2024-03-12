@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:-->
 
-- 🔭 I’m working on Android Camera Hal, ISP algorithm and 3A algorithm
+- 🔭 I’m working on ISP algorithm && 3A algorithm && CMOS Sensor && high speed serdes && ISP software architecture of SOC Chip in Automotive Systems
 - 🌱 I’m interesting in Deep learning, Low level ISP and JAVA for Android
 - 📫 Maybe you want to ask me some Questions: Dylanin1999@163.com
 
