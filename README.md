@@ -13,13 +13,13 @@ Here are some ideas to get you started:-->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2023 - To: 28 July 2026
+From: 05 July 2023 - To: 29 July 2026
 
-Total Time: 5,259 hrs
+Total Time: 5,265 hrs 24 mins
 
-Other              3,616 hrs 1 min       🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.76 %
-C                  1,133 hrs 47 mins     🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.56 %
-Bash               218 hrs 42 mins       🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.16 %
+Other              3,621 hrs 26 mins     🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜   68.78 %
+C                  1,133 hrs 52 mins     🟩🟩🟩🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   21.53 %
+Bash               219 hrs 36 mins       🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.17 %
 C++                145 hrs 18 mins       🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   02.76 %
 Text               43 hrs 18 mins        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.82 %
 Python             33 hrs 47 mins        ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.64 %
